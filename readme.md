@@ -96,7 +96,7 @@
 
 ## 📸 Sample Output
 
-![Model Output](ml_training_prediction_sample.png)
+![Model Output](sample.png)
 
 ---
 
