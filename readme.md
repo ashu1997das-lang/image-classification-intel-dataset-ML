@@ -1,9 +1,29 @@
 # Image Classification using MobileNetV2
 
-## 📌 Overview
-This project builds an end-to-end image classification pipeline to classify natural scene images into six categories using transfer learning.
+🚀 End-to-end image classification project using transfer learning, achieving **84% accuracy on unseen test data**.
 
 ---
+
+## 🔍 Quick Highlights
+- ✅ Transfer Learning (MobileNetV2)
+- ✅ Data Augmentation to reduce overfitting
+- ✅ Fine-tuning for better generalization
+- ✅ 84% Test Accuracy
+- ✅ Real-time prediction on new images
+
+---
+
+## ▶️ How to Run
+
+1. Open the notebook in Google Colab  
+2. Upload your dataset (train/val/test structure)  
+3. Run all cells step-by-step  
+4. Train the model  
+5. Evaluate on test data  
+6. Upload an image to test prediction
+
+---
+
 
 ## 🗂️ Classes
 - Building  
@@ -71,6 +91,12 @@ This project builds an end-to-end image classification pipeline to classify natu
 - Training Accuracy: ~80%  
 - Validation Accuracy: ~82–84%  
 - **Test Accuracy: ~84%**
+
+---
+
+## 📸 Sample Output
+
+![Model Output](ml_training_prediction_sample.png)
 
 ---
 
